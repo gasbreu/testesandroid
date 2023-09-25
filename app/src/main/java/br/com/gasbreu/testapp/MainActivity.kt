@@ -1,4 +1,4 @@
-package br.com.igorbag.meuprimeiroappdio
+package br.com.gasbreu.testapp
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -8,7 +8,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        //O desafio sera criar uma valor dentro do string.xml
-        // E trocar o texto do xml e tornar internacional (Ingles, Espanhol, etc...)
     }
 }
+
